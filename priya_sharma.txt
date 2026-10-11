@@ -1,0 +1,10 @@
+Priya Sharma
+priya.sharma@email.com
+Senior Data Scientist with 5 years of experience in NLP and machine learning.
+Skills: Python, scikit-learn, pandas, NumPy, PyTorch, Transformers, SQL, Docker, AWS, Git
+Experience
+Data Scientist, Fintech Corp   2021 - Present
+Built NLP classification models and deployed them with Docker on AWS.
+ML Engineer, Startup X   Jun 2019 - Dec 2020
+Education
+M.Tech Computer Science, IIT Nagpur, 2017 - 2019

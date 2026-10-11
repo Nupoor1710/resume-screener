@@ -1,0 +1,5 @@
+Data Scientist - NLP
+We are looking for a Data Scientist with 3+ years of experience to build NLP and machine learning solutions.
+Requirements: Python, machine learning, NLP, scikit-learn, pandas, SQL, TensorFlow or PyTorch, Docker, AWS.
+Bachelor's degree in Computer Science or related field required; Master's preferred.
+Experience with Git and agile teams is a plus.

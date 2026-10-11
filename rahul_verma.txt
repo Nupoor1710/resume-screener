@@ -1,0 +1,8 @@
+RAHUL VERMA
+rahul.v@email.com
+Web developer with 4 years of experience.
+Skills: JavaScript, React, Node.js, HTML, CSS, MongoDB, Git, Agile
+Experience
+Frontend Developer, WebWorks 2020 - 2024
+Education
+B.E. Information Technology, 2016 - 2020
